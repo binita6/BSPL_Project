@@ -1,0 +1,109 @@
+body{
+  background-color:rgb(248, 236, 213)
+}
+    .main{
+      background-image: url(./images/4690707.jpg);
+      height:300px;
+
+    }
+   /*homepage extra style*/
+   .show img{
+    padding-top: 3px;
+    padding-left:5px;
+    padding-right:5px;
+    width:100%;
+    
+    
+   }
+   .show p{
+    font-size: 70px;
+    text-align: center;
+    color: red;
+   }
+    /*logo*/
+    .logo{
+      height: 50px;
+      width: 50px;
+    }
+  
+  h1 {
+    color:rgb(0, 208, 45);
+    text-align: left;
+  }
+  h2{
+    color: rgb(215, 141, 2);
+    text-align: left;
+  }
+  .container{
+    
+    visibility:60px;
+    height: 100px;
+    width:auto;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+  }
+  /*about-us styling*/
+  
+  
+  .main-about p{
+    font-style: italic;
+    height: 500px;
+    width: 600px;
+    padding-left: 20px;
+    clear:right;
+  }
+
+.M-i{
+  height: 200px;
+  width: 300px;
+  
+  float:right;
+  margin: 0 0 0 15px;
+  
+}
+.main-about img{
+  align-items: baseline;
+}
+
+  
+  .column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 200px; 
+  }
+
+  .content-heading{
+    color: darkorange;
+    font-size:180px;
+    
+  }
+  .row{
+    padding-left: 100px;
+  }
+  /*reservation*/
+  .rev-body{
+background-color: wheat;
+  }
+  
+  .rev-table{
+    padding-left: 10px;
+    padding-top: 100px;
+    height: 300px;
+    width: 400px;
+  }
+
+  /*footer styining */
+  .footer{
+    width: 100%;
+    height: 90px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    position:relative;
+   bottom: 0;
+   clear: both;
+   
+    
+  }
